@@ -15,7 +15,7 @@ public class switch1 {
 		case 3: System.out.println("bonjour");
 		break;
 		default: System.out.println("Invalid button");
-		}
-	}
+         	}
+	 }
 
 }
