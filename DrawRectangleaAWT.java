@@ -1,5 +1,5 @@
 package program;
 
-public class DrawRectangleaAWT {
+public class DrawRectangleaAWT {str
 
 }
