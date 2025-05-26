@@ -17,8 +17,7 @@ public class elseif2 {
 			 System.out.println("Invalid button");
 		 }
 	 }
-	
-  }
+}
 			    
 
 
