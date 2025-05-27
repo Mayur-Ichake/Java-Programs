@@ -6,6 +6,5 @@ public static void main(String args []) {
  System.out.println("ENTC department");
  System.out.println("3rd\nyear");
  
- 
-}
+   }
 }
