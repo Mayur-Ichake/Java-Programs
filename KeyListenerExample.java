@@ -1,8 +1,5 @@
 package program;
 
-public class KeyListenerExample {
-   
-
-   
+public class KeyListenerExample {  
 
 }
