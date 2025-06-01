@@ -9,8 +9,6 @@ public static void main(String args[]) {
 	int b = sc.nextInt();
 	int number = sc.nextInt() ;
     
-   
-  
 	switch(number) {
 	case 1: System.out.println(a+b);
 	break;
