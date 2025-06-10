@@ -16,7 +16,6 @@ public class elseif {
 		 } else {
 			 System.out.println("a is smaller");
 		 }
-	 }
-	 
+	 }	 
 }
 			    
